@@ -1,0 +1,14 @@
+C:\Users\clivaly\projects\dio\projeto_estacionamento\bin\Debug\net8.0\projeto_estacionamento.exe
+C:\Users\clivaly\projects\dio\projeto_estacionamento\bin\Debug\net8.0\projeto_estacionamento.deps.json
+C:\Users\clivaly\projects\dio\projeto_estacionamento\bin\Debug\net8.0\projeto_estacionamento.runtimeconfig.json
+C:\Users\clivaly\projects\dio\projeto_estacionamento\bin\Debug\net8.0\projeto_estacionamento.dll
+C:\Users\clivaly\projects\dio\projeto_estacionamento\bin\Debug\net8.0\projeto_estacionamento.pdb
+C:\Users\clivaly\projects\dio\projeto_estacionamento\obj\Debug\net8.0\projeto_estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clivaly\projects\dio\projeto_estacionamento\obj\Debug\net8.0\projeto_estacionamento.AssemblyInfoInputs.cache
+C:\Users\clivaly\projects\dio\projeto_estacionamento\obj\Debug\net8.0\projeto_estacionamento.AssemblyInfo.cs
+C:\Users\clivaly\projects\dio\projeto_estacionamento\obj\Debug\net8.0\projeto_estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\clivaly\projects\dio\projeto_estacionamento\obj\Debug\net8.0\projeto_estacionamento.dll
+C:\Users\clivaly\projects\dio\projeto_estacionamento\obj\Debug\net8.0\refint\projeto_estacionamento.dll
+C:\Users\clivaly\projects\dio\projeto_estacionamento\obj\Debug\net8.0\projeto_estacionamento.pdb
+C:\Users\clivaly\projects\dio\projeto_estacionamento\obj\Debug\net8.0\projeto_estacionamento.genruntimeconfig.cache
+C:\Users\clivaly\projects\dio\projeto_estacionamento\obj\Debug\net8.0\ref\projeto_estacionamento.dll
