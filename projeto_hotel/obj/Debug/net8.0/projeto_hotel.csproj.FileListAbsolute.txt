@@ -1,0 +1,15 @@
+C:\Users\clivaly\projects\dio\projeto_hotel\obj\Debug\net8.0\projeto_hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clivaly\projects\dio\projeto_hotel\obj\Debug\net8.0\projeto_hotel.AssemblyInfoInputs.cache
+C:\Users\clivaly\projects\dio\projeto_hotel\obj\Debug\net8.0\projeto_hotel.AssemblyInfo.cs
+C:\Users\clivaly\projects\dio\projeto_hotel\obj\Debug\net8.0\projeto_hotel.csproj.CoreCompileInputs.cache
+C:\Users\clivaly\projects\dio\projeto_hotel\obj\Debug\net8.0\projeto_hotel.sourcelink.json
+C:\Users\clivaly\projects\dio\projeto_hotel\bin\Debug\net8.0\projeto_hotel.exe
+C:\Users\clivaly\projects\dio\projeto_hotel\bin\Debug\net8.0\projeto_hotel.deps.json
+C:\Users\clivaly\projects\dio\projeto_hotel\bin\Debug\net8.0\projeto_hotel.runtimeconfig.json
+C:\Users\clivaly\projects\dio\projeto_hotel\bin\Debug\net8.0\projeto_hotel.dll
+C:\Users\clivaly\projects\dio\projeto_hotel\bin\Debug\net8.0\projeto_hotel.pdb
+C:\Users\clivaly\projects\dio\projeto_hotel\obj\Debug\net8.0\projeto_hotel.dll
+C:\Users\clivaly\projects\dio\projeto_hotel\obj\Debug\net8.0\refint\projeto_hotel.dll
+C:\Users\clivaly\projects\dio\projeto_hotel\obj\Debug\net8.0\projeto_hotel.pdb
+C:\Users\clivaly\projects\dio\projeto_hotel\obj\Debug\net8.0\projeto_hotel.genruntimeconfig.cache
+C:\Users\clivaly\projects\dio\projeto_hotel\obj\Debug\net8.0\ref\projeto_hotel.dll
