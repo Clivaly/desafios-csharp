@@ -1,0 +1,15 @@
+C:\Users\clivaly\projects\dio\projeto_celular\bin\Debug\net8.0\projeto_celular.exe
+C:\Users\clivaly\projects\dio\projeto_celular\bin\Debug\net8.0\projeto_celular.deps.json
+C:\Users\clivaly\projects\dio\projeto_celular\bin\Debug\net8.0\projeto_celular.runtimeconfig.json
+C:\Users\clivaly\projects\dio\projeto_celular\bin\Debug\net8.0\projeto_celular.dll
+C:\Users\clivaly\projects\dio\projeto_celular\bin\Debug\net8.0\projeto_celular.pdb
+C:\Users\clivaly\projects\dio\projeto_celular\obj\Debug\net8.0\projeto_celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clivaly\projects\dio\projeto_celular\obj\Debug\net8.0\projeto_celular.AssemblyInfoInputs.cache
+C:\Users\clivaly\projects\dio\projeto_celular\obj\Debug\net8.0\projeto_celular.AssemblyInfo.cs
+C:\Users\clivaly\projects\dio\projeto_celular\obj\Debug\net8.0\projeto_celular.csproj.CoreCompileInputs.cache
+C:\Users\clivaly\projects\dio\projeto_celular\obj\Debug\net8.0\projeto_celular.sourcelink.json
+C:\Users\clivaly\projects\dio\projeto_celular\obj\Debug\net8.0\projeto_celular.dll
+C:\Users\clivaly\projects\dio\projeto_celular\obj\Debug\net8.0\refint\projeto_celular.dll
+C:\Users\clivaly\projects\dio\projeto_celular\obj\Debug\net8.0\projeto_celular.pdb
+C:\Users\clivaly\projects\dio\projeto_celular\obj\Debug\net8.0\projeto_celular.genruntimeconfig.cache
+C:\Users\clivaly\projects\dio\projeto_celular\obj\Debug\net8.0\ref\projeto_celular.dll
